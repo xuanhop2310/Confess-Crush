@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Chào bạn Trang',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Lạc vào tim anh lẻ loii
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Cái này test thôi ^^ 🥰',
